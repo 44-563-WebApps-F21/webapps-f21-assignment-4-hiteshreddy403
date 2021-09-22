@@ -40,3 +40,30 @@ table { border: dashed 5px brown;
     text-align: left;}
     tr:nth-child(even)
     {background-color: orange;}
+    
+ 
+.LORDGORING:hover{
+text-shadow: rgb(178, 167, 236);
+
+border-style: outset;
+
+filter: blur(1px);
+
+}
+.LORDCAVERSHAM:hover{
+
+text-shadow: rgb(245, 159, 216);
+
+border-style: outset;
+
+filter: brightness(2px);
+
+}
+.JAMES:hover{
+text-shadow: rgb(250, 210, 150);
+
+border-style: outset;
+
+/*filter: blur(2px);*/
+
+}
