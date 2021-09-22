@@ -29,3 +29,14 @@
 .JAMES {
     color: burlywood;
 }
+
+
+table { border: dashed 5px brown;
+    border-collapse: separate;}
+    table.collapsing {
+    border: solid 5px;
+    border-collapse: collapse;}
+    td, th {border: solid 1px ;
+    text-align: left;}
+    tr:nth-child(even)
+    {background-color: orange;}
